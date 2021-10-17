@@ -1,0 +1,2 @@
+# minesweeper
+C++ game minesweeper
